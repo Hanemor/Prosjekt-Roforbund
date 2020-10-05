@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Resultathåndtering-Roforbundet.iml" filepath="$PROJECT_DIR$/Resultathåndtering-Roforbundet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoProject.iml" filepath="$PROJECT_DIR$/RoProject.iml" />
     </modules>
   </component>
 </project>
